@@ -1,3 +1,7 @@
+# Graphics
+vendor.display.disable_rotator_downscale=1
+vendor.display.disable_scaler=0
+
 # HWUI
 debug.hwui.use_hint_manager=true
 debug.hwui.target_cpu_time_percent=30
