@@ -18,6 +18,7 @@ dalvik.vm.minidebuginfo=false
 persist.sys.fuse.passthrough.enable=true
 
 # Graphics
+debug.cpurend.vsync=false
 vendor.display.disable_rotator_downscale=1
 vendor.display.disable_scaler=0
 
