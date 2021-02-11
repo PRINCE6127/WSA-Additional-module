@@ -14,6 +14,9 @@ dalvik.vm.image-dex2oat-threads=4
 dalvik.vm.dex2oat-minidebuginfo=false
 dalvik.vm.minidebuginfo=false
 
+# FUSE passthrough
+persist.sys.fuse.passthrough.enable=true
+
 # Graphics
 vendor.display.disable_rotator_downscale=1
 vendor.display.disable_scaler=0
