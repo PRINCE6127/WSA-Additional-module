@@ -25,6 +25,9 @@ vendor.display.disable_scaler=0
 debug.hwui.use_hint_manager=true
 debug.hwui.target_cpu_time_percent=30
 
+# IORAP
+ro.iorapd.enable=true
+
 # LMKDs
 ro.lmk.critical_upgrade=true
 ro.lmk.upgrade_pressure=40
