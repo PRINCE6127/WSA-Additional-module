@@ -1,3 +1,10 @@
+# App launch prefetching (IORap)
+iorapd.perfetto.enable=true
+iorapd.readahead.enable=true
+persist.device_config.runtime_native_boot.iorap_perfetto_enable=true
+persist.device_config.runtime_native_boot.iorap_readahead_enable=true
+ro.iorapd.enable=true
+
 # ART
 dalvik.vm.dex2oat64.enabled=true
 ro.dex2oat_white_list=com.google.android.gms
@@ -25,9 +32,6 @@ vendor.display.disable_scaler=0
 # HWUI
 debug.hwui.use_hint_manager=true
 debug.hwui.target_cpu_time_percent=30
-
-# IORAP
-persist.device_config.runtime_native_boot.iorap_readahead_enable=true
 
 # LMKDs
 ro.lmk.critical_upgrade=true
