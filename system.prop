@@ -26,7 +26,7 @@ debug.hwui.use_hint_manager=true
 debug.hwui.target_cpu_time_percent=30
 
 # IORAP
-ro.iorapd.enable=true
+persist.device_config.runtime_native_boot.iorap_readahead_enable=true
 
 # LMKDs
 ro.lmk.critical_upgrade=true
