@@ -1,6 +1,9 @@
 # Additional Stuffs Module for MagiskOnWSA
 MagiskOnWSA based Magisk module
 
+## WARNING
+This is DEMONSTRATIONAL module!!
+
 ## What is this?
 It's a personal demonstrational module that
 <br>trying to adding some required stuffs for my daily use
