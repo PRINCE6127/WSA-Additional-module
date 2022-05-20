@@ -10,10 +10,6 @@ It's a personal demonstrational [Magisk](https://github.com/topjohnwu/Magisk) mo
 <br>which is integrating GApps and Magisk into Windows Subsystem for Android (WSA).
 
 ## What is included?
-### AtvRemoteService
-Which is pulled-out from [OpenGapps](https://opengapps.org/)' Android TV Gapps tvstock package
-<br>for supporting Bluetooth controllers pairing to Android games.
-
 ### Keymapping changes for Nintendo layout Controllers
 Default layout for Controllers are Xbox based.
 <br>So It's messed up my Nintendo layout Controllers.
